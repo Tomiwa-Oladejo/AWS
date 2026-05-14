@@ -46,12 +46,12 @@ Deletion policies can preserve important resources such as EBS snapshots after s
 ## Screenshots
 
 ### CloudFormation Stack
-![CREATE_COMPLETE](screenshots/CREATE_COMPLETE.png)
+![CREATE_COMPLETE](../screenshots/CREATE_COMPLETE.png)
 
-![UPDATE_COMPLETE](screenshots/UPDATE_COMPLETE.png)
+![UPDATE_COMPLETE](../screenshots/UPDATE_COMPLETE.png)
 
 ### EBS Snapshot
-![Stack](screenshots/stack-complete.png)
+![EBS Snapshot](../screenshots/Snapshot.png)
 
 ## Key Takeaways
 
