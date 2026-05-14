@@ -6,7 +6,11 @@ The lab deploys a networking layer and application layer using reusable CloudFor
 
 ## Architecture
 
-![Architecture Diagram](../Screenshots/Application_infrastructure.png)
+![Network Diagram](../Screenshots/Networking_infrastructure.png)
+
+![Application Diagram](../Screenshots/Application_infrastructure.png)
+
+
 
 
 ## Technologies Used
