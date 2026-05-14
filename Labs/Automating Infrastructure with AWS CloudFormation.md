@@ -1,18 +1,14 @@
 # AWS CloudFormation Infrastructure Automation Lab
 
-This project demonstrates Infrastructure as Code (IaC) concepts using AWS CloudFormation. 
-
-The lab deploys a networking layer and application layer using reusable CloudFormation templates, while also demonstrating stack updates, infrastructure visualisation, and resource lifecycle management.
+In the lab I deplyed a networking layer and application layer using reusable CloudFormation templates, while also condicting stack updates, infrastructure visualisation, and resource lifecycle management. This project demonstrates Infrastructure as Code (IaC) concepts using AWS CloudFormation.
 
 ## Architecture
 
 ### Network Diagram
 ![Network Diagram](../Screenshots/Networking_infrastructure.png)
 
-### Application Diagram]
+### Application Diagram
 ![Application Diagram](../Screenshots/Application_infrastructure.png)
-
-
 
 
 ## Technologies Used
@@ -46,6 +42,16 @@ CloudFormation updates only modified resources instead of rebuilding the entire 
 
 ### Resource Lifecycle Management
 Deletion policies can preserve important resources such as EBS snapshots after stack deletion.
+
+## Screenshots
+
+### CloudFormation Stack
+![CREATE_COMPLETE](screenshots/CREATE_COMPLETE.png)
+
+![UPDATE_COMPLETE](screenshots/UPDATE_COMPLETE.png)
+
+### EBS Snapshot
+![Stack](screenshots/stack-complete.png)
 
 ## Key Takeaways
 
