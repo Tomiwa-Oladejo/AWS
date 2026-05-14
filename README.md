@@ -60,7 +60,7 @@ I am currently focusing on developing skills in:
 
 ## Labs Included
 
-- Automating Infrastructure with AWS CloudFormation
+- [Automating Infrastructure with AWS CloudFormation](Labs/Automating%20Infrastructure%20with%20AWS%20CloudFormation.md)
 
 More labs and projects will continue to be added over time.
 
